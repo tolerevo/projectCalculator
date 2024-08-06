@@ -15,5 +15,5 @@ const operate = (a, b, operator) => {
         return "Error";
     }
 }
-console.log(operate(2, 3, "+"));
+console.log(operate(7, 3, "+"));
 
